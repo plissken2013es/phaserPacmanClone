@@ -6,7 +6,7 @@ Cursor keys to move Pacman.
 "B" key to (de)activate original Overflow "bug"
 
 Demo:
-http://luisquin.com/lq/phaserPacman/index.html
+http://plissken2013es.github.io/phaserPacmanClone/
 
 Following theory and mechanics from
 http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior
